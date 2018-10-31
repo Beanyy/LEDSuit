@@ -1,0 +1,6 @@
+1) Flashier animations
+2) Cycle through animations automatically
+3) Separate power plane for LEDs.
+4) Easier mounting process. Probably elastic armbands.
+5) Shrink down the giant case statement in main loop.
+6) Separate CLEDController from Led_Set class.
